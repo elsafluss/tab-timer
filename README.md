@@ -1,3 +1,11 @@
+page with three tabs, display different content below for each tab
+tabs are always visible, like a header
+analytics: session duration
+initial tab is open by default and is included in duration
+also get total duration of the final tab
+duration is sent when user leaves the current tab
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
